@@ -6,7 +6,6 @@
 ![Course](https://img.shields.io/badge/Course-Engineering%20Project%20Management-blue)
 ![University](https://img.shields.io/badge/University-Northeastern%20University-red)
 ![Semester](https://img.shields.io/badge/Semester-Fall%202025-orange)
-![Team](https://img.shields.io/badge/Team-4-purple)
 
 ---
 
